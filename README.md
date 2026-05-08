@@ -1,4 +1,6 @@
-# Maze Generator and Solver
+# Fransi Tsena - UGR/9529/16
+
+## Maze Solver
 
 This project implements a dynamic maze generator and solver using Pygame and OpenGL. It fulfills all requirements of the assignment, including the **Bonus/Challenge** features.
 
